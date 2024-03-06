@@ -17,6 +17,9 @@ body {
 .bg-base {
     background-color: #000000;
 }
+.bg-dark-blue {
+    background-color: #070716;
+}
 
 p {
     font-family: 'Ubuntu', sans-serif;
@@ -402,6 +405,9 @@ marquee {
     .mob-view-q{
         float: left !important;
     }
+    .mob-view-awards{
+        text-align: right !important;
+    }
 }
 @media screen and (min-width: 100px) {
     @media screen and (max-width: 767px) {
@@ -414,6 +420,13 @@ marquee {
         }
         .mob-view-q{
             float: none !important;
+        }
+        .mob-view-awards{
+            text-align: center !important;
+        }
+        .awards-image{
+            justify-content: center !important;
+            display: flex !important;
         }
     }
 }

@@ -4,7 +4,8 @@
 body {
     font-family: 'Ubuntu', sans-serif;
     font-size: 13px;
-    background: #cfe9ff;
+    background: #000000;
+    color: white;
 }
 
 ::selection {
@@ -19,7 +20,7 @@ body {
 
 p {
     font-family: 'Ubuntu', sans-serif;
-    font-size: 1.1em;
+    /* font-size: 1.1em; */
     font-weight: 300;
     line-height: 1.7em;
     color: #999;
@@ -195,6 +196,9 @@ p.mh-120 {
 
 .bg-orange {
     background-color: #FE4F00;
+}
+.bg-orange-dark {
+    background-color: #d94c0d;
 }
 
 .title::selection {
@@ -381,4 +385,35 @@ marquee {
 }
 .progress{
     height: 1rem !important;
+}
+.project-border{
+    border-radius: 3%;
+}
+.text-black{
+    color: black;
+}
+.bg-card{
+    background-color: #ffc595;
+}
+@media screen and (min-width: 768px) {
+    .mob-view{
+        float: right !important;
+    }
+    .mob-view-q{
+        float: left !important;
+    }
+}
+@media screen and (min-width: 100px) {
+    @media screen and (max-width: 767px) {
+        .mh-35 {
+            max-height: 115px;
+            text-align: center;
+        }
+        .mob-view{
+            float: none !important;
+        }
+        .mob-view-q{
+            float: none !important;
+        }
+    }
 }

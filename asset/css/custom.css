@@ -3,7 +3,7 @@
 
 body {
     font-family: 'Ubuntu', sans-serif;
-    font-size: 13px;
+    font-size: 14px;
     background: #000000;
     color: white;
 }
@@ -97,7 +97,7 @@ body {
     margin: 0px;
     padding: 0px;
     font-family: "Ubuntu", sans-serif;
-    font-size: 13px;
+    font-size: 14px;
     line-height: 26px;
 }
 
@@ -196,23 +196,6 @@ p.mh-120 {
     box-shadow: 1px 1px 10px 0px #137adb, -1px -1px 10px 0px #0f6bc2;
 }
 
-/* Lazeez 2 */
-@import url('https://fonts.googleapis.com/css?family=Ubuntu');
-
-body {
-    background-color: black;
-    /* background-color: #292121; Dark Black */
-    margin: 0px;
-    padding: 0px;
-    font-family: "Ubuntu", sans-serif;
-    font-size: 13px;
-    line-height: 26px;
-}
-
-::selection {
-    background-color: #137adb;
-    color: #FFF;
-}
 
 .text-justify {
     text-align: justify;

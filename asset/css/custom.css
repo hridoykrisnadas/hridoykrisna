@@ -158,6 +158,9 @@ a:hover {
     font-weight: 700;
 
 }
+p{
+    color: white;
+}
 
 .bg-black {
     background-color: black;

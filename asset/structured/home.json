@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Hridoy Krisna Das",
+  "url": "https://hridoykrisna.netlify.app/",
+  "logo": "https://hridoykrisna.netlify.app/asset/images/logo.png",
+  "description": "Hridoy Krisna Das | Java Developer",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+8801517826768",
+    "contactType": "Java Developer",
+    "areaServed": {
+      "@type": "Country",
+      "name": "Bangladesh"
+    },
+    "availableLanguage": "English",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Uttara, Dhaka",
+      "addressLocality": "Dhaka",
+      "postalCode": "1230",
+      "addressCountry": "Bangladesh"
+    }
+  },
+  "sameAs": [
+    "https://github.com/hridoykrisnadas",
+    "https://www.linkedin.com/in/hridoykrisnadas/"
+  ]
+}

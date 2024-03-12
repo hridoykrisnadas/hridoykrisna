@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- Homepage -->
+    <url>
+        <loc>https://hridoykrisna.netlify.app</loc>
+        <changefreq>never</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Example pages -->
+    <url>
+        <loc>https://hridoykrisna.netlify.app/car</loc>
+        <changefreq>never</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://hridoykrisna.netlify.app/leads</loc>
+        <changefreq>never</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://hridoykrisna.netlify.app/lazeez</loc>
+        <changefreq>never</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://hridoykrisna.netlify.app/swagger</loc>
+        <changefreq>never</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://hridoykrisna.netlify.app/solver</loc>
+        <changefreq>never</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://hridoykrisna.netlify.app/police</loc>
+        <changefreq>never</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://hridoykrisna.netlify.app/jewellery</loc>
+        <changefreq>never</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://hridoykrisna.netlify.app/avant</loc>
+        <changefreq>never</changefreq>
+        <priority>7.0</priority>
+    </url>
+
+    <!-- Add more pages as needed -->
+
+</urlset>
